@@ -21,6 +21,6 @@ fun main(){
             currentPos = t.indexOf(sArray[i])
         }
     }
-    return result
+//    return result
     println(result)
 }
